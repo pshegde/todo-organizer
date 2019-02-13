@@ -1,0 +1,9 @@
+{
+    "test": {
+        "connection_string": "dbs/test.db"
+    },
+    "development": {
+        "connection_string": "dbs/development.db"
+    },
+    "production": {}
+}
